@@ -1,4 +1,4 @@
-# ChessGame by Bohdan Solokha
+# ChessGame
 Computer implementation of a board game of chess in the C ++ programming language.
 The program has two modes: playing with a computer (minmax algorithm) and playing 1 on 1 with a person.
 The graphical interface is made using the SFML library. 
