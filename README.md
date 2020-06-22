@@ -1,8 +1,8 @@
-# DA-8124
-Комп'ютерна реалізація настільної гри ШАХИ мовою програмування C++.
-В програмі доступні два режими: гра з комп'ютером і гра 1 на 1 з людиною.
-Графічний інтерфейс зроблено за допомогою бібліотеки SFML. 
-Для роботи з вихідним кодом слід встановити SFML.
-Для зупуску гри без додаткових бібліотек слід використовувати Release-версію
-# Примітка!!!
-Щоб зробити хід слід натиснути ПКМ на фігуру, якою необхідно походити (вона підсвітиться червоним кольором), а далі натиснути ЛКМ на клітинку, куди хочете походити.
+# ChessGame by Bohdan Solokha
+Computer implementation of a board game of chess in the C ++ programming language.
+The program has two modes: playing with a computer (minmax algorithm) and playing 1 on 1 with a person.
+The graphical interface is made using the SFML library. 
+To work with the source code, you must install SFML.
+To run the game without additional libraries, use the Release version.
+# Remark!!!
+To make a move, press the RMB on the shape you want to look like (it will be highlighted in red), and then press the LMB on the cell where you want to look.
